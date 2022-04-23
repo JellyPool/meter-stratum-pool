@@ -39,7 +39,7 @@
     "async": "*",
     "base58-native": "*",
     "bignum": "0.13.1",
-    "multi-hashing": "git://github.com/JellyPool/node-multi-hashing.git"
+    "multi-hashing": "https://github.com/JellyPool/node-multi-hashing.git"
   },
   "deprecated": false,
   "description": "High performance Stratum poolserver in Node.js",
